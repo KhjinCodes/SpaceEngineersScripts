@@ -1,1 +1,1 @@
-# SpaceEngineersScripts
+This project contains the C# scripts I write for the game Space Engineers. Space Engineers is a space sandbox, exploration game centered at building space (or planetary) craft to solve various exploration problems/needs. The game allows players to create automation scripts written in C# which allows for better control of the game's building blocks.
